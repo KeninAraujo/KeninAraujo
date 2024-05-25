@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Kenin ✌️
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kenin-araújo-rodrigues)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenin-ara%C3%BAjo-rodrigues/)
 [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenizyx/)
 
 ![Kenin GitHub stats](https://github-readme-stats.vercel.app/api?username=KeninAraujo&show_icons=true&theme=radical)
