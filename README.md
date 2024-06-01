@@ -20,3 +20,4 @@
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+![snake gif](https://github.com/KeninAraujo/KeninAraujo/blob/output/github-contribution-grid-snake.svg)
